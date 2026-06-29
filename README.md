@@ -73,7 +73,7 @@ public class ChenchuCharan {
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
 | 🛒 [AI-Powered E-Commerce Platform](#) | Java, Spring Boot, REST API, MySQL, AI | Full-stack e-commerce app with AI-driven product recommendations & JWT Auth |
-| 🏦 [Smart Banking Management System](#) | Java, Spring Boot, Hibernate, MySQL, Spring Security | Enterprise banking app with multi-factor auth, AES-256 encryption & Swagger docs |
+
 
 </div>
 
